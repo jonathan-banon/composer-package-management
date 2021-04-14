@@ -1,0 +1,7 @@
+{
+    "name": "banon/quete_manager",
+    "description": "quete manager",
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
